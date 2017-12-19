@@ -1,3 +1,3 @@
 @ECHO OFF
 color 0a
-start /B php cap2.php
+start /B php run_with_console.php
