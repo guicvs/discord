@@ -143,7 +143,7 @@ class discord{
 	
 	public function debug(){
 		
-		unlink($_SERVER['DOCUMENT_ROOT'].'/testediscord/Cookies'.$this->cookienum.'.txt');
+		unlink(getcwd().'\Cookies'.$this->cookienum.'.txt');
 		return array(rand_cookie => $this->cookienum, email => $this->email, senha => $this->senha, success_login => $this->login_success, login_error_msg => $this->login_error_msg, token => $this->token, guilds => $this->guilds_count);
 	}
 	
