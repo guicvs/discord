@@ -11,7 +11,7 @@ $request_headers[] = "Accept-Encoding: gzip, deflate, br";
 
 //$classe->login($request_headers); //EFETUA LOGIN *OBRIGATORIO ATIVAR ESSA LINHA
 
-//array_push($request_headers, "Authorization: ".$classe->token); *OBRIGATORIO ATIVAR ESSA LINHA
+//array_push($request_headers, "Authorization: ".$classe->token); //*OBRIGATORIO ATIVAR ESSA LINHA
 
 //$classe->guilds($request_headers); //ACESSA A ÁREA DE GUILDS COM O TOKEN *OBRIGATORIO ATIVAR ESSA LINHA
 
