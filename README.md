@@ -18,5 +18,5 @@ COMO USAR ? <br>
 <br>
 <br>
 <h1>SE FOR USAR O TERMINAL (CMD WINDOWS):</h1>
-EXECUTE O ARQUIVO "run.bat" QUE ENCONTRA-SE NA PASTA.<br>
-OBS:NÃO SE ESQUEÇA DE CONFIGURAR O run_with_console.php
+cd pasta_do_projeto_caminho<br>
+php run_with_console.php
