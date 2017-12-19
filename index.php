@@ -11,8 +11,8 @@ function getStr2($dado, $string, $string2){
 
 //CONSTANTES
 
-$email = $_GET["email"];
-$senha = $_GET["pass"];
+$email = "YOUR_EMAIL";
+$senha = "YOUR_PASS";
 $cookienum = rand(1000000, 9999999);
 $url_guilds = "https://discordapp.com/api/v6/users/@me/guilds";
 $url_login = "https://discordapp.com/api/v6/auth/login";
