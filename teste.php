@@ -1,6 +1,6 @@
 <?php
 include_once("func.php");
-$classe = new discord("guidotweet@gmail.com", "16092001gG@"); //ENVIA OS PARAMETROS DE LOGIN E CHAMA A CLASSE discord
+$classe = new discord("YOUR_EMAIL", "YOUR_PASS"); //ENVIA OS PARAMETROS DE LOGIN E CHAMA A CLASSE discord
 
 $request_headers = array();
 $request_headers[] = "Host: discordapp.com";
