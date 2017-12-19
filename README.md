@@ -12,11 +12,11 @@ COMO USAR ? <br>
 3 - * CASO QUEIRA USAR O SPAM BOT DEIXE ASSIM: http://prntscr.com/hpfyku *<br>
 
 <h1>RECOMENDAÇÕES:</h1>
--- RECOMENDO USAR A APLICAÇÃO EM UM TERMINAL, EXEMPLO: php run_with_terminal.php</br>
+-- RECOMENDO USAR A APLICAÇÃO EM UM TERMINAL, EXEMPLO: php run_with_console.php</br>
 -- CASO QUEIRA USAR NO NAVEGADOR(VAI TRAVAR) INSTALE O APACHE.<br>
 -- CASO QUEIRA USAR NO TERMINAL, RECOMENDO INSTALAR O APPSERV.<br>
 <br>
 <br>
-<br>
 <h1>SE FOR USAR O TERMINAL (CMD WINDOWS):</h1>
-ATRAVÉS DELE, VÁ PARA A PASTA ONDE SE ENCONTRA "run_with_terminal.php" e digite php run_with_terminal.php<br>
+EXECUTE O ARQUIVO "run.bat" QUE ENCONTRA-SE NA PASTA.<br>
+OBS:NÃO SE ESQUEÇA DE CONFIGURAR O run_with_console.php
